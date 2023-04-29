@@ -22,6 +22,7 @@ h1{
     font-size: 30px;
     font-family: Arial;
     font-weight: bold;
+    color: white;
 }
 
 .contacts input{
@@ -47,8 +48,9 @@ h1{
     justify-content: center;
     align-items: end;
     gap: 10px;
+    padding: 10px;
 }
 
 .clickables img{
-    width: 40px;
+    width: 30px;
 }
