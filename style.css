@@ -112,6 +112,7 @@ body::-webkit-scrollbar {
 h1{
     display: flex;
     justify-content: center;
+    align-items: center;
     font-size: 50px;
     font-family: Arial;
     font-weight: bold;
@@ -129,7 +130,7 @@ h1{
     gap: 40px;
     padding-left: 130px;
     font-family: helvetica;
-    padding-bottom: 200px;
+    padding-bottom: 150px;
 }
 
 .projects .lyrical {
@@ -150,6 +151,26 @@ h1{
     margin-right: 150px;
     float: right;
     width: 300px;
+}
+
+.more h2 {
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+    font-family: helvetica;
+    margin-bottom: 10px;
+}
+
+.more .buttons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    padding-bottom: 20px
+}
+
+.more .buttons img{
+    width: 50px;
 }
 
 .contacts form{
