@@ -197,6 +197,10 @@ h1{
     width: 200px;
 }
 
+.projects .nasa {
+    margin-top: -50px;
+}
+
 .projects .nasa img {
     display: absolute;
     margin-top: -230px;
