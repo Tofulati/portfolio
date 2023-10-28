@@ -197,6 +197,14 @@ h1{
     width: 200px;
 }
 
+.projects .nasa img {
+    display: absolute;
+    margin-top: -230px;
+    margin-right: 200px;
+    float: right;
+    width: 200px;
+}
+
 .projects .belize img {
     display: absolute;
     margin-top: -235px;
