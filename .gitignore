@@ -1,0 +1,13 @@
+# firebase
+/.firebase
+config.js
+.firebaserc
+firebase.json
+
+# dependencies
+/node_modules
+
+# misc
+.DS_Store
+package-lock.json
+package.json
