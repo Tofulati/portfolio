@@ -11,3 +11,4 @@ firebase.json
 .DS_Store
 package-lock.json
 package.json
+public/assets
